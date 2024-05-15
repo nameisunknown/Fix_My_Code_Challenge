@@ -1,0 +1,15 @@
+current directory: /home/mohamed/alx_projects/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240507-32623-qnbuah.rb extconf.rb
+creating Makefile
+
+current directory: /home/mohamed/alx_projects/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/mohamed/alx_projects/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/mohamed/alx_projects/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20240507-32623-1btjrxq
